@@ -11,7 +11,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 </p>
 
 <p align="center">
-  <img alt="License" src="[https://global-uploads.webflow.com/61d83a2ebb0ae01ab96e841a/6351c63edd508b15cad4cba4_OG-nlw-copa.jpg](https://www.rocketseat.com.br/eventos/nlw/_next/image?url=%2Feventos%2Fnlw%2F_next%2Fstatic%2Fmedia%2Fstart.72ef4553.webp&w=640&q=75&dpl=dpl_5RXTAbwNsUuaUTraMeFJbQJBCaDg)">
+  <img alt="License" src="https://global-uploads.webflow.com/61d83a2ebb0ae01ab96e841a/6351c63edd508b15cad4cba4_OG-nlw-copa.jpg](https://www.rocketseat.com.br/eventos/nlw/_next/image?url=%2Feventos%2Fnlw%2F_next%2Fstatic%2Fmedia%2Fstart.72ef4553.webp&w=640&q=75&dpl=dpl_5RXTAbwNsUuaUTraMeFJbQJBCaDg)">
 </p>
 
 <br>
