@@ -10,6 +10,10 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <a href="#memo-licença">Licença</a>
 </p>
 
+<p align="center">
+  <img alt="License" src="nearby/mobile/assets/images/nearby.png">
+</p>
+
 <br>
 
 ## 🚀 Tecnologias
