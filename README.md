@@ -11,7 +11,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 </p>
 
 <p align="center">
-  <img alt="License" src="nearby/mobile/assets/images/nearby.png">
+  <img alt="License" src="https://www.rocketseat.com.br/eventos/nlw/_next/image?url=%2Feventos%2Fnlw%2F_next%2Fstatic%2Fmedia%2Fproject-image-mobile.2b65be7d.webp&w=750&q=100&dpl=dpl_5RXTAbwNsUuaUTraMeFJbQJBCaDg">
 </p>
 
 <br>
